@@ -43,9 +43,8 @@ Welcome to the **most meticulously crafted, pixel-perfect portfolio repository**
 ## 🎬 CINEMATIC PREVIEW
 
 <div align="center">
+<img width="1344" height="590" alt="image" src="https://github.com/user-attachments/assets/51d57cb5-56a0-40bb-b633-19728f98c62a" />
 
-<img src="<img width="1344" height="590" alt="image" src="https://github.com/user-attachments/assets/51d57cb5-56a0-40bb-b633-19728f98c62a" />
-" width="90%" alt="Portfolio Preview" style="border-radius: 12px; box-shadow: 0 0 30px rgba(0,212,255,0.3);" />
 
 </div>
 
