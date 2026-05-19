@@ -9,8 +9,6 @@
 <p>
   <img src="https://img.shields.io/badge/Status-ACTIVE-00FF88?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Version-2.0-FF6B6B?style=for-the-badge&logo=semantic-release&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/License-MIT-FFD93D?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Made%20With-❤️-FF6B9D?style=for-the-badge&logo=heart&logoColor=white&labelColor=0D1117" />
 </p>
 
 <!-- Animated Divider -->
