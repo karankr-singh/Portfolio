@@ -18,7 +18,7 @@
 
 ---
 
-## 🌟 THE PORTFOLIO OF LEGENDS
+## 🌟 THE PORTFOLIO
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 
 </div>
 
-Welcome to the **most over-engineered, meticulously crafted, pixel-perfect portfolio repository** on GitHub. This isn't just a website — it's an *experience*.
+Welcome to the **most meticulously crafted, pixel-perfect portfolio repository** on GitHub. This isn't just a website — it's an *experience*.
 
 ---
 
@@ -44,8 +44,8 @@ Welcome to the **most over-engineered, meticulously crafted, pixel-perfect portf
 
 <div align="center">
 
-<!-- Replace with your actual screenshot or GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3R6d3R6d3R6d3R6d3R6d3R6d3R6d3R6d3R6d3R6d3R6d3R6d3R6d3R6d3R6d3R6Zw/giphy.gif" width="90%" alt="Portfolio Preview" style="border-radius: 12px; box-shadow: 0 0 30px rgba(0,212,255,0.3);" />
+<img src="<img width="1344" height="590" alt="image" src="https://github.com/user-attachments/assets/51d57cb5-56a0-40bb-b633-19728f98c62a" />
+" width="90%" alt="Portfolio Preview" style="border-radius: 12px; box-shadow: 0 0 30px rgba(0,212,255,0.3);" />
 
 </div>
 
